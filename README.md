@@ -1,6 +1,6 @@
 # Jaehyun Next Door
 
-An unofficial, fan-made Codex pet inspired by BOYNEXTDOOR Myung Jaehyun. With a realistic face, a soft chibi sailor outfit and a little microphone, Jaehyun Next Door keeps you company with gentle waves, small hops, curious tilts and sixteen look directions.
+An unofficial, fan-made Codex pet inspired by BOYNEXTDOOR Myung Jaehyun, pairing a realistic face with a chibi body. Wearing a soft sailor outfit and carrying a little microphone, Jaehyun Next Door keeps you company with gentle waves, small hops, curious tilts and sixteen look directions.
 
 ## Get the pet
 
