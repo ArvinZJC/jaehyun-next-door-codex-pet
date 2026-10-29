@@ -164,9 +164,9 @@ class RadioStation:
                 d.line((x, y, x + 405, y), fill="#527087", width=2)
                 self.text(im, (x, y + 54), f"{i+1:02d} / {trigger}", 28, MUTED, "lm")
                 self.text(im, (x, y + 128), reaction, 40, YELLOW, "lm")
-            self.text(im, (75, 1530), "视线：快捷聊天输入光标，或", 30, INK, "lm")
+            self.text(im, (75, 1530), "视线跟随快捷聊天的输入光标，或", 30, INK, "lm")
             self.text(
-                im, (75, 1580), "Computer Use 操作光标；不是普通鼠标。", 30, INK, "lm"
+                im, (75, 1580), "Computer Use 的操作光标，不跟随普通鼠标。", 30, INK, "lm"
             )
             self.text(im, (75, 1650), "实际表现以你安装的应用版本为准", 26, MUTED, "lm")
         else:
